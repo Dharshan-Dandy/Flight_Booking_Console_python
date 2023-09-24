@@ -6,9 +6,7 @@ To use the system:
 
     Clone the repository to your local machine.
     Navigate to the repository directory.
-    Run the following command to install the dependencies:
-
-pip install requirements.txt
+    install the dependencies:
 
     Run the following command to start the system:
 
